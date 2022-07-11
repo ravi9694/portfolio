@@ -1,0 +1,30 @@
+.inner-curser{
+    position: fixed;
+    left: 10px;
+    width: 10px;
+    height: 10px;
+    transform: translate(-50%,-50%);
+    background-color: wheat;
+    mix-blend-mode: difference;
+    pointer-events: none;
+    transition: width 0.5s,height 0.5s;
+  }
+  .inner-curser.grew{
+      width: 25px;
+      height: 25px;
+      transition: width 0.5s,height 0.5s;
+  
+  }
+  .outer-curser{
+    position: fixed;
+    left: 10px;
+    width: 25px;
+    height: 25px;
+    transform: translate(-50%,-50%);
+    border: 1px solid white;
+    mix-blend-mode: difference;
+    border-radius: 50%;
+    pointer-events: none;
+    transition: 0.1s;
+  }
+  
