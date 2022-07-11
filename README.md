@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# feature :#
+* Home page - Display a picture and a short line about you
+* About page - in which you write about your life 
+* Resume page - in which you can upload your equactional details, skills and achievements
+* work page - in which your describe about your wrok experience
+* Blog page - in which you can share your blogs
+* Contack page - in which you can upload your social media profile link and format of email to send you 
